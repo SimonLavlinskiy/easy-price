@@ -1,0 +1,12 @@
+basePath: /
+info:
+  contact: {}
+  title: Easy Price - get price auto is easy!
+  version: 1.0.0
+paths: {}
+securityDefinitions:
+  ApiKeyAuth:
+    in: header
+    name: Authorization
+    type: apiKey
+swagger: "2.0"

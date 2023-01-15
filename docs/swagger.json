@@ -1,0 +1,17 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Easy Price - get price auto is easy!",
+        "contact": {},
+        "version": "1.0.0"
+    },
+    "basePath": "/",
+    "paths": {},
+    "securityDefinitions": {
+        "ApiKeyAuth": {
+            "type": "apiKey",
+            "name": "Authorization",
+            "in": "header"
+        }
+    }
+}
